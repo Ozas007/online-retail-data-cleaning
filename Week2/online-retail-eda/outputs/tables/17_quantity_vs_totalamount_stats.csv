@@ -1,0 +1,7 @@
+metric,value
+"Valid rows (qty>0, amount>0)",524878
+Pearson r (Quantity vs TotalAmount),0.9074
+Spearman rho (Quantity vs TotalAmount),0.6736
+Sampled rows for scatter plot,50000
+Qty Q1/Q3 (for plot bounds),1 / 100
+Amt Q1/Q3 (for plot bounds),0.6 / 183.6

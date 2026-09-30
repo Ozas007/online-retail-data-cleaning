@@ -1,0 +1,9 @@
+Column,Unique Count,Unique Percentage (%)
+InvoiceNo,25900,4.78
+StockCode,4070,0.75
+Description,4223,0.78
+Quantity,722,0.13
+InvoiceDate,23260,4.29
+UnitPrice,1630,0.3
+CustomerID,4372,0.81
+Country,38,0.01

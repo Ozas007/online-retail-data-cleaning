@@ -1,0 +1,4 @@
+column,Q1,Q3,IQR,lower_bound,upper_bound,outlier_count,outlier_pct,min,max,mean
+Quantity,1.0,11.0,10.0,-14.0,26.0,27111,5.165,1.0,80995.0,10.6166
+UnitPrice,1.25,4.13,2.88,-3.07,8.45,37827,7.207,0.001,13541.33,3.9226
+TotalAmount,3.9,17.7,13.8,-16.8,38.4,42624,8.121,0.001,168469.6,20.2754

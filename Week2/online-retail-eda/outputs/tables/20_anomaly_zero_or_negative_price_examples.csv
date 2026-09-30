@@ -1,0 +1,6 @@
+InvoiceNo,StockCode,Description,Quantity,UnitPrice,TotalAmount,InvoiceDate,Country
+536414,22139,,56,0.0,0.0,2010-12-01 11:52:00,United Kingdom
+536545,21134,,1,0.0,0.0,2010-12-01 14:32:00,United Kingdom
+536546,22145,,1,0.0,0.0,2010-12-01 14:33:00,United Kingdom
+536547,37509,,1,0.0,0.0,2010-12-01 14:33:00,United Kingdom
+536549,85226A,,1,0.0,0.0,2010-12-01 14:34:00,United Kingdom

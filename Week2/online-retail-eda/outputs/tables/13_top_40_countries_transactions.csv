@@ -1,0 +1,39 @@
+Country,lines,unique_invoices,unique_customers,unique_products,lines_pct
+United Kingdom,490300,23494,3950,4065,91.365
+Germany,9480,603,95,1671,1.767
+France,8541,461,87,1543,1.592
+EIRE,8184,360,3,1976,1.525
+Spain,2528,105,31,1093,0.471
+Netherlands,2371,101,9,785,0.442
+Belgium,2069,119,25,778,0.386
+Switzerland,1994,74,21,978,0.372
+Portugal,1510,71,19,706,0.281
+Australia,1258,69,9,600,0.234
+Norway,1086,40,10,591,0.202
+Italy,803,55,15,477,0.15
+Channel Islands,757,33,9,430,0.141
+Finland,695,48,12,458,0.13
+Cyprus,611,20,8,498,0.114
+Sweden,461,46,8,261,0.086
+Unspecified,442,13,4,344,0.082
+Austria,401,19,11,307,0.075
+Denmark,389,21,9,251,0.072
+Japan,358,28,8,216,0.067
+Poland,341,24,6,204,0.064
+Israel,294,9,4,256,0.055
+USA,291,7,4,163,0.054
+Hong Kong,284,15,0,191,0.053
+Singapore,229,10,1,178,0.043
+Iceland,182,7,1,103,0.034
+Canada,151,6,4,147,0.028
+Greece,146,6,4,138,0.027
+Malta,127,10,2,99,0.024
+United Arab Emirates,68,3,2,68,0.013
+European Community,61,5,1,50,0.011
+RSA,58,1,1,58,0.011
+Lebanon,45,1,1,45,0.008
+Lithuania,35,4,1,29,0.007
+Brazil,32,1,1,32,0.006
+Czech Republic,30,5,1,25,0.006
+Bahrain,19,4,2,16,0.004
+Saudi Arabia,10,2,1,9,0.002

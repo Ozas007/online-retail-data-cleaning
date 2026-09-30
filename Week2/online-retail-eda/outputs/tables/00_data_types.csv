@@ -1,0 +1,9 @@
+Column,Dtype,Non-Null Count
+InvoiceNo,object,541909
+StockCode,object,541909
+Description,object,540455
+Quantity,int64,541909
+InvoiceDate,datetime64[ns],541909
+UnitPrice,float64,541909
+CustomerID,float64,406829
+Country,object,541909

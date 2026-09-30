@@ -1,0 +1,5 @@
+metric,value
+"Valid rows (qty>0, price>0)",524878.0
+Pearson r (UnitPrice vs Quantity),-0.0038
+Spearman rho (UnitPrice vs Quantity),-0.4087
+Sampled rows for scatter plot,50000.0

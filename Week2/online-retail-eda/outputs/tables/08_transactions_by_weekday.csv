@@ -1,0 +1,8 @@
+DayOfWeek,DayOfWeekName,lines,unique_invoices
+0,Monday,60,60
+1,Tuesday,81,81
+2,Wednesday,60,60
+3,Thursday,69,69
+4,Friday,73,73
+5,Saturday,85,85
+6,Sunday,72,72

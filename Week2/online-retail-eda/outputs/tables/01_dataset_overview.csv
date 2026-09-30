@@ -1,0 +1,10 @@
+Metric,Value
+rows,"536,641"
+columns,8
+column_names,"InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, TotalAmount, Year, Month, Day, Hour, DayOfWeek, DayOfWeekName, YearMonth, Date, IsCancellation"
+memory_mb,221.73
+n_invoices,"25,900"
+n_customers,"4,372"
+n_products,"4,070"
+n_countries,38
+n_descriptions,"4,223"
