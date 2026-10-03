@@ -148,3 +148,6 @@ outputs/tables/*.csv
 
 # Pipeline log
 pipeline.log
+
+# IDE configuration
+.trae/

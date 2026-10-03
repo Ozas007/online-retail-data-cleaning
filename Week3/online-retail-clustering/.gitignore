@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.venv/
+.env
+*.log
+data/*.xlsx
+data/*.zip
+data/*.csv
+!data/README.md
+outputs/figures/*.png
+outputs/tables/*.csv
+report/*.docx
+!report/Week_3_Unsupervised_Learning_and_Clustering_Report.docx

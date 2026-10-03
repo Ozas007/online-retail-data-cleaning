@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.venv/
+.env
+*.log
+outputs/
+report/*.docx
+data/*.xlsx
+data/*.npz
+logs/

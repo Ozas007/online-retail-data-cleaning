@@ -1,0 +1,50 @@
+# ---------- Environment ----------
+.env
+.venv
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.tmp
+
+# ---------- Data files (do NOT commit raw datasets) ----------
+data/*.xlsx
+data/*.csv
+data/*.zip
+data/*.xls
+data/*.parquet
+
+# ---------- Output artefacts ----------
+outputs/figures/*.png
+outputs/figures/*.jpg
+outputs/figures/*.svg
+outputs/tables/*.csv
+outputs/models/*.keras
+outputs/models/*.joblib
+outputs/models/*.pkl
+outputs/models/*.pt
+outputs/models/*.pth
+logs/*.log
+
+# ---------- Report artefacts ----------
+report/*.docx
+report/*.pdf
+report/*.html
+report/*.md
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---------- Editor / OS ----------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---------- pytest ----------
+.pytest_cache/
+.coverage
+htmlcov/
